@@ -1,0 +1,47 @@
+{
+    "categories": {
+        "PLC": [
+            "1abc",
+            "123",
+            "456"
+        ],
+        "VFD": [
+            "765"
+        ],
+        "Circuit Breaker": [
+            "777"
+        ]
+    },
+    "items": {
+        "1abc": {
+            "name": "Siemens",
+            "category": "PLC",
+            "price": 2500.0,
+            "quantity": 3
+        },
+        "123": {
+            "name": "AB",
+            "category": "PLC",
+            "price": 2500.0,
+            "quantity": 14
+        },
+        "456": {
+            "name": "ABB",
+            "category": "PLC",
+            "price": 1000.0,
+            "quantity": 9
+        },
+        "765": {
+            "name": "AB",
+            "category": "VFD",
+            "price": 10000.0,
+            "quantity": 4
+        },
+        "777": {
+            "name": "Siemens",
+            "category": "Circuit Breaker",
+            "price": 500.0,
+            "quantity": 10
+        }
+    }
+}
